@@ -1,4 +1,4 @@
-# Insurance Claims Flask App
+# Insurance Claims Flask Demo App
 
 A simple Flask server that:
 1. Reads a CSV file with insurance claim data.
