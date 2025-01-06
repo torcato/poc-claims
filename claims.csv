@@ -1,0 +1,15 @@
+claim_id,policy_holder,claim_amount,claim_date,claim_description
+1,John Doe,1500,2024-01-10,Water leak in the kitchen
+2,Jane Smith,3000,2024-02-05,Car accident on the highway
+3,Bob Johnson,7500,2024-03-12,Fire damage to the living room
+4,Ava Harris,2000,2024-04-20,Tree branch fell on the roof
+5,Mike Brown,1000,2024-05-01,Broken window due to vandalism
+6,Emily Chen,4000,2024-06-15,Flood damage in the basement
+7,David Lee,2500,2024-07-10,Theft of personal belongings
+8,Sophia Jackson,1200,2024-08-05,Air conditioning unit malfunction
+9,Kevin White,6000,2024-09-20,Hurricane damage to the exterior walls
+10,Rachel Kim,1800,2024-10-15,Electrical fire in the garage
+11,Liam Davis,3500,2024-11-01,Car theft from the driveway
+12,Isabella Garcia,2200,2024-12-05,Pipe burst in the bathroom
+13,Julian Martin,5000,2025-01-10,Fire damage to the garage
+14,Alexander Hall,2800,2025-02-15,Flood damage to the living room
